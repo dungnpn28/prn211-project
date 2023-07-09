@@ -1,0 +1,17 @@
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe.config
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\bin\Debug\ShopManagementSystem.exe
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\bin\Debug\ShopManagementSystem.pdb
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.AssemblyReference.cache
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmBill.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmCustomer.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmEmployee.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmMaterial.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmMain.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmProduct.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.frmSearchBill.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.Properties.Resources.resources
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.GenerateResource.cache
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.csproj.CoreCompileInputs.cache
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.exe
+D:\02.FPTU\05.Semester5\01.PRN211\PRN_Project\ShopManagementSystem\obj\Debug\ShopManagementSystem.pdb
